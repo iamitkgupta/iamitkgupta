@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2 align="center">This side Amit Kumar Gupta, aka <a href=https://17h4ck3r11.github.io>17h4ck3r11</a>.</h2>
+<h2 align="center">This side Amit Kumar Gupta, aka <a href=https://iamitkgupta.github.io>17h4ck3r11</a>.</h2>
 
-![](https://komarev.com/ghpvc/?username=17h4ck3r11&color=blue)
+![](https://komarev.com/ghpvc/?username=iamitkgupta&color=blue)
 
 <br>
 
@@ -23,8 +23,8 @@
 
 <br>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17h4ck3r11&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=17h4ck3r11&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamitkgupta&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamitkgupta&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 <br><br><br><br><br><br>
 
@@ -32,4 +32,4 @@
 
 
 <i><h3 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</h3><br></i>
-<img src="https://github-profile-trophy.vercel.app/?username=17h4ck3r11&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=iamitkgupta&theme=juicyfresh&no-bg=true" />
